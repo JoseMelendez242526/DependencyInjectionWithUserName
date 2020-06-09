@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.exe
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.deps.json
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.runtimeconfig.json
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.dll
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\bin\Debug\netcoreapp3.1\DependencyInjectionWithUserName.pdb
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\obj\Debug\netcoreapp3.1\DependencyInjectionWithUserName.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\obj\Debug\netcoreapp3.1\DependencyInjectionWithUserName.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\obj\Debug\netcoreapp3.1\DependencyInjectionWithUserName.AssemblyInfo.cs
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\obj\Debug\netcoreapp3.1\DependencyInjectionWithUserName.dll
+C:\Users\Owner\source\repos\DependencyInjectionWithUserName\DependencyInjectionWithUserName\obj\Debug\netcoreapp3.1\DependencyInjectionWithUserName.pdb
